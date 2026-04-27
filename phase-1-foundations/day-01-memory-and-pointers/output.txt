@@ -1,0 +1,6 @@
+1. Value of a:10
+2. Address of a:0x7ffe507d32c4
+3. Pointer p (stores address):0x7ffe507d32c4
+4. Value at address stored in P10
+5. New value of a after *p=20:20
+6. Value of a after *q=100:100

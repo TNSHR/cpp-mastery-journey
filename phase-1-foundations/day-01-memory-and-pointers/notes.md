@@ -15,4 +15,4 @@ Changing *p changes the original variable
 
 int a = 10;
 int* p = &a;
-*p = 50; // a becomes 50
+*p = 50; // a becomes 50d

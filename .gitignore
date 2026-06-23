@@ -1,0 +1,27 @@
+# VS Code
+.vscode/
+
+# Executables
+main
+a.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Database/cache
+*.db
+*.db-shm
+*.db-wal
+
+# Output files
+output.txt
+
+# OS files
+.DS_Store
